@@ -1,3 +1,7 @@
 var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/BORDER FROM CALENDAR.png com.lucas99kl.liquidglassplus
+var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/LiveScore-large.png com.lucas99kl.liquidglassplus
+var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/LiveScore-large.png:Zone.Identifier com.lucas99kl.liquidglassplus
 var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/com.supercell.scroll-large.png com.lucas99kl.liquidglassplus
+var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/nl.rtl.buienrader-large.png com.lucas99kl.liquidglassplus
+var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/nl.rtl.buienrader-large.png:Zone.Identifier com.lucas99kl.liquidglassplus
 var/jb/Library/Themes/Liquid Glass++.theme/Info.plist	    com.lucas99kl.liquidglassplus
