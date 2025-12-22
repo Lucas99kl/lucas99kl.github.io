@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Liquid Glass ++\nMore liquid glass icons"
+					"markdown": "## Liquid Glass++\nSnowboard theme for more clear liquid glass of iOS 26. Custom made 3rd party icons and in total has almost 100 icons!"
 				},
 				{
 					"class": "DepictionSeparatorView"
