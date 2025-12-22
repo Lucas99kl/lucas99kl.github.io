@@ -1,0 +1,11 @@
+Package: com.lucas99kl.liquidglassplus
+Name: Liquid Glass++
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Liquid Glass icons on Snowboard!
+Author: Lucas99kl, Apple
+Maintainer: Lucas99kl
+Section: Themes
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://lucas99kl.github.io/depictions/native/com.lucas99kl.liquidglassplus/depiction.json
+Depends: com.anemonetheming.anemone | com.spark.snowboard
