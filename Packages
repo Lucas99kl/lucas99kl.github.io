@@ -5,11 +5,11 @@ Section: Themes
 Maintainer: Lucas99kl
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debians/com.lucas99kl.liquidglassplus.deb
-Size: 224020
-MD5sum: 831c6ac4aeecab9c9d86936e01202d57
-SHA1: 3abd4836370de79f012a72b22806a69e49566976
-SHA256: 461f58effba1da80784264a42a1348cbec2f73d6c5d1078fbc566e71fd40ee57
-SHA512: 36a73ee29b31914ad0271f792fae14d32d2c77ec7f6d0d15c13a4bdd28c3343a0eb4974ac1045e64fa9a70fb3254b0ec93d3596e799569a9c9eb1b33d3a20228
+Size: 223936
+MD5sum: db702a3bed2e6409277fe2bc8ffb0ba3
+SHA1: ceb1eba1500ba60d2ad252497dc61bf1e8afa08e
+SHA256: 45334d0e24006a75a1da1a3e23dbe7a96d96614592dce21c57ed656c3eeedbf2
+SHA512: 78bc754672315241b3d80c3927e50147451b552a93d195494db1f57da83677f9b78c2959c96cf2becf70b2784383fbb8ec8ee818e3e9f6a4912b06a14e4d2de6
 Description: Liquid Glass icons on Snowboard!
 Name: Liquid Glass++
 Author: Lucas99kl, Apple
