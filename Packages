@@ -1,0 +1,18 @@
+Package: com.lucas99kl.liquidglassplus
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Lucas99kl
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.lucas99kl.liquidglassplus.deb
+Size: 4427156
+MD5sum: 5e89fa68560ae0323996497d6872b073
+SHA1: 42053bbf90db60048e67fe132fff13a85df2b9fe
+SHA256: dc10de9401041baf09b37c7b6a2d3ccab19f2f8684cdeb92277a59fa39c75208
+SHA512: 9c9734e33e1fb5cb896d785024916c4acc23aa40ebb5a4f9c41fd63895db9bf4f7c894a235b0b2f9ee0cf037f42344024ee49e109df6927be1a2285e2dce5e71
+Description: More Liquid Glass icons on Snowboard!
+Name: Liquid Glass ++
+Author: Lucas99kl, Apple
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://lucas99kl.github.io/depictions/native/com.lucas99kl.liquidglassplus/depiction.json
+
