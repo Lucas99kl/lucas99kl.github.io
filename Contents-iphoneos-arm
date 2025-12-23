@@ -1,5 +1,7 @@
 var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/BORDER FROM CALENDAR.png com.lucas99kl.liquidglassplus
 var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/LiveScore-large.png com.lucas99kl.liquidglassplus
 var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/com.supercell.scroll-large.png com.lucas99kl.liquidglassplus
+var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/nl.9292.9292-alt1-large.png com.lucas99kl.liquidglassplus
+var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/nl.9292.9292-large.png com.lucas99kl.liquidglassplus
 var/jb/Library/Themes/Liquid Glass++.theme/IconBundles/nl.rtl.buienradar-large.png com.lucas99kl.liquidglassplus
 var/jb/Library/Themes/Liquid Glass++.theme/Info.plist	    com.lucas99kl.liquidglassplus
